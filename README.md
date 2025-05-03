@@ -1,6 +1,14 @@
-this is my first Repository
+# 👋 Hello, I'm "Eman"
 
-<!---
-emancantcodeman/emancantcodeman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 About Me
+- 🎂 Age: "19"
+- 🎬 My 3 Favorite Movies:
+  1. "Forest Gump"
+  2. "Pacific Rim"
+  3. "Some Kevin hart movie idk"
+- 🎨 Favorite Color: "deep indigo"
+
+## 📸 Profile Photo
+![My Photo](""C:\Users\gilbe\Downloads\doge.jpg"")
+
+
